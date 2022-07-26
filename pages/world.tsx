@@ -6,7 +6,7 @@ import { filterProps, motion } from "framer-motion"
 
 export async function getServerSideProps(context: any) { 
   var transition = {in: {}, out: {}}
-  if(context.req.headers.referer == 'http://localhost:3000/') {
+  if(context.req.headers.referer == 'https://fake.fm/') {
     transition = {
       in: {
         opacity: 1,

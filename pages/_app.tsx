@@ -3,7 +3,7 @@ import type { AppProps } from 'next/app'
 import { AnimatePresence } from "framer-motion";
 
 function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
-  const url = `http://localhost:3000${router.route}`
+  const url = `https://fake.fm${router.route}`
 
   return(
     <AnimatePresence exitBeforeEnter>

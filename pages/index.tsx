@@ -22,7 +22,7 @@ const Intro: NextPage = () => {
 
     useEffect(() => {
         setTimeout(function() {
-            router.push('http://localhost:3000/world')
+            router.push('https://fake.fm/world')
         }, 2000)
     }, []);
 
