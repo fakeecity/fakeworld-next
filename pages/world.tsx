@@ -69,19 +69,19 @@ const Home: NextPage = ({ticker, transition}: any) => {
                             <p className={styles.navbarheader}>Link</p>
                             <ul>
                               <li>
-                                <a href='https://twitter.com/1fakeworld'>
+                                <a href='https://twitter.com/1fakeworld' target='_blank' rel='noopener noreferrer'>
                                   <p className={styles.navlink}>{`> Twitter`}</p>
                                   <img className={styles.navimg} src='/bird.png' />
                                 </a>
                               </li>
                               <li>
-                                <a href='https://github.com/fakeecity'>
+                                <a href='https://github.com/fakeecity' target='_blank' rel='noopener noreferrer'>
                                   <p className={styles.navlink}>{`> Github`}</p>
                                   <img className={styles.navimg} src='/github.png' />
                                 </a>
                               </li>
                               <li>
-                                <a href='https://discordapp.com/users/259094106356187137'>
+                                <a href='https://discordapp.com/users/259094106356187137' target='_blank' rel='noopener noreferrer'>
                                   <p className={styles.navlink}>{`> Discord`}</p>
                                   <img className={styles.navimg} src='/discord.png' />
                                 </a>
