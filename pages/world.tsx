@@ -29,7 +29,8 @@ export async function getServerSideProps(context: any) {
     props: {
       ticker,
       transition,
-    }
+    },
+    revalidate: 300,
   }
 }
 
