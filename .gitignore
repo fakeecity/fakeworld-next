@@ -128,3 +128,5 @@ dist
 
 .env.local
 .DS_Store
+.wakatime-project
+**/.DS_Store

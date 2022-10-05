@@ -16,10 +16,10 @@ a {
 }
 
 li {
-  line-height:3px;
+  line-height: 3px;
 }
 
-.WebContainer{
+.WebContainer {
   background-color: white;
   width: 100%;
   max-width: 100vh;
@@ -31,14 +31,14 @@ li {
   z-index: auto;
 }
 
-.centertext{
+.centertext {
   font-family: Calibri, sans-serif;
   width: 100%;
   height: auto;
   margin: auto;
 }
 
-.warning{
+.warning {
   text-align: center;
   text-transform: uppercase;
   font-size: 4.9vmin;
@@ -48,7 +48,7 @@ li {
   padding-bottom: 0;
 }
 
-.subtext{
+.subtext {
   margin-top: 1.506%;
   text-align: center;
   font-size: 2.45vmin;
@@ -57,7 +57,7 @@ li {
   padding-bottom: 0;
 }
 
-.smalltext{
+.smalltext {
   margin-top: 0.972%;
   text-align: center;
   font-size: 1.65vmin;
@@ -84,42 +84,42 @@ li {
 }
 
 .seal_fbi {
-    position: relative;
-    width: 14.425%;
-    height: auto;
-    margin-top: 2.153%;
-    margin-left: 7.478%;
+  position: relative;
+  width: 14.425%;
+  height: auto;
+  margin-top: 2.153%;
+  margin-left: 7.478%;
 }
 
-.seal_homeland{
+.seal_homeland {
   position: relative;
   width: 18.244%;
   height: auto;
   margin-left: 7.478%;
-  margin-top: 2.153%
+  margin-top: 2.153%;
 }
 
-.seal_doj{
+.seal_doj {
   position: relative;
   width: 14.931%;
   height: auto;
   margin-left: 18.75%;
-  margin-top: 2.153%
+  margin-top: 2.153%;
 }
 
-.seal_europol{
-    position: relative;
-    width: 14.931%;
-    height: auto;
-    margin-left: 27.847%;
-    margin-top: 2.153%;
-    margin-bottom: 4%;
+.seal_europol {
+  position: relative;
+  width: 14.931%;
+  height: auto;
+  margin-left: 27.847%;
+  margin-top: 2.153%;
+  margin-bottom: 4%;
 }
 
-.seal_eurojust{
-    position: relative;
-    width: 14.931%;
-    height: auto;
-    margin-top: 2.153%;
-    margin-left: 11.646%;
+.seal_eurojust {
+  position: relative;
+  width: 14.931%;
+  height: auto;
+  margin-top: 2.153%;
+  margin-left: 11.646%;
 }
