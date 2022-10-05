@@ -1,3 +1,3 @@
-# fakeworld-next
+# <img src="/public/fakeworld3.webp" width="40" align="left"> FAKEWORLD
 
-Nextjs Implementation of Website Homepage
+> NextJS Implementation of Root Domain Webpage/Portfolio
